@@ -9,3 +9,6 @@ const objPessoa = {
   cpf: '12312312312',
   turma: 'JavaScript'
 }
+
+
+console.log(objPessoa.nome);
