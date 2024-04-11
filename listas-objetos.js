@@ -25,9 +25,6 @@ console.log(estudante.endereco[1]);*/
 
   
 //console.log(estudante.endereco[0].rua);
-
-// código omitido
-
 //const listaEnderecosComComplemento = estudante.endereco.filter((endereco) => endereco.complemento)
 
 const listaEnderecosComComplemento = estudante.endereco.filter((endereco) => endereco.complemento)
